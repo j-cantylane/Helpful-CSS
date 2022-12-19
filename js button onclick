@@ -1,3 +1,5 @@
 <button href="#" onclick="window.open(href='#')">
 BUTTON TEXT
 </button>
+
+onclick="location.href='#RFI'"
