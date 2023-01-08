@@ -1,0 +1,1 @@
+ background-image: linear-gradient(rgba(R,G,B,DECIMAL), rgba(R,G,B,DECIMAL)), url('#IMAGEURL');
